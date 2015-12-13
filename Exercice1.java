@@ -11,7 +11,7 @@ class Exercice1 {
             sum = sum + a[i];
         }
         
-        System.out.println.("The sum of the elements in array " + a + " is " + sum);
+        System.out.println("The sum of the elements in array {1,2,3,4,5} is " + sum);
 
     }
 }
